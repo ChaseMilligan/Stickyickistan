@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "chasemilligan.github.io/Stickyickistan/",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Adventures", "Encounters", "PCs"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
