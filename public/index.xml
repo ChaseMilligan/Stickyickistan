@@ -1,22 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>🪴 Quartz 4.0</title>
+      <title>🌐Wikiyickistan</title>
       <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <description>Last 10 notes on 🌐Wikiyickistan</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Welcome to Stickyickistan</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description>Welcome to Stickyickistan Stickyickistan is my homebrewed D&amp;D world, a melting pot of various settings blended into one expansive and ever-evolving universe ...</description>
-    <pubDate>Sat, 08 Feb 2025 18:53:10 GMT</pubDate>
+    <title>Wererats</title>
+    <link>https://quartz.jzhao.xyz/Species/Wererats</link>
+    <guid>https://quartz.jzhao.xyz/Species/Wererats</guid>
+    <description>In Stickyickistan there are many nooks and crannies in which Wererats are known to hide, but they mainly reside in the main sewer system beneath the city streets ...</description>
+    <pubDate>Sat, 08 Feb 2025 20:17:06 GMT</pubDate>
   </item><item>
-    <title>Arrest of the Ashenfey Assault</title>
-    <link>https://quartz.jzhao.xyz/Adventures/Arrest-of-the-Ashenfey-Assault</link>
-    <guid>https://quartz.jzhao.xyz/Adventures/Arrest-of-the-Ashenfey-Assault</guid>
-    <description>Found on the Bounty Processing Unit BPU Info Client: Geàrd Coille Boireann - guardian of the Verdanfey Gate Location: The Outback - Grim Forest Brief: Geard has made an offer on behalf ...</description>
-    <pubDate>Sat, 08 Feb 2025 18:53:10 GMT</pubDate>
+    <title>Stickyickistan</title>
+    <link>https://quartz.jzhao.xyz/Stickyickistan</link>
+    <guid>https://quartz.jzhao.xyz/Stickyickistan</guid>
+    <description>Modern Stickyickistan Welcome to the enchanting realm of Stickyickistan, a captivating City State nestled on an island off the Sword Coast, where an active volcano stands proudly ...</description>
+    <pubDate>Sat, 08 Feb 2025 20:17:06 GMT</pubDate>
+  </item><item>
+    <title>Dwarf</title>
+    <link>https://quartz.jzhao.xyz/Species/Dwarf</link>
+    <guid>https://quartz.jzhao.xyz/Species/Dwarf</guid>
+    <description>Dwarves are one of the main species found in the city, but they are a minority. Most dwarves in Stickyickistan come from the Bongstad region, and work as miners in the volcanic rim of Mount Zooka, or as blacksmiths crafting weapons and armor for sale.</description>
+    <pubDate>Sat, 08 Feb 2025 20:17:06 GMT</pubDate>
+  </item><item>
+    <title>Halflings</title>
+    <link>https://quartz.jzhao.xyz/Species/Halflings</link>
+    <guid>https://quartz.jzhao.xyz/Species/Halflings</guid>
+    <description>Halflings are one of the main species living in the city, and once were the only humanoid creatures on the island. Halflings in Stickyickistan are everywhere and nowhere at once—a people both deeply ingrained in the city-state’s fabric and constantly underestimated.</description>
+    <pubDate>Sat, 08 Feb 2025 20:17:06 GMT</pubDate>
+  </item><item>
+    <title>Eberron</title>
+    <link>https://quartz.jzhao.xyz/Sources/Eberron</link>
+    <guid>https://quartz.jzhao.xyz/Sources/Eberron</guid>
+    <description>Eberron Factions Reimagined for Stickyickistan The Aurum → The Gilded Nexus A shadowy organization of wealthy merchants, powerful magitech tycoons, and corrupt nobles ...</description>
+    <pubDate>Sat, 08 Feb 2025 20:17:06 GMT</pubDate>
+  </item><item>
+    <title>Ravnica</title>
+    <link>https://quartz.jzhao.xyz/Sources/Ravnica</link>
+    <guid>https://quartz.jzhao.xyz/Sources/Ravnica</guid>
+    <description>Ravnican Factions Reimagined for Stickyickistan Azorius Senate → Nevercough Tribunal A bureaucratic, law-enforcing body centered in the Capitol building on Nevercough Island ...</description>
+    <pubDate>Sat, 08 Feb 2025 20:17:06 GMT</pubDate>
+  </item><item>
+    <title>Dragonlance</title>
+    <link>https://quartz.jzhao.xyz/Sources/Dragonlance</link>
+    <guid>https://quartz.jzhao.xyz/Sources/Dragonlance</guid>
+    <description>Dragonlance Factions Reimagined for Stickyickistan Knights of Solamnia → The Nevercough Tribunal Auctoritas Column A strict order of warriors devoted to honor, justice, and law ...</description>
+    <pubDate>Sat, 08 Feb 2025 20:17:06 GMT</pubDate>
+  </item><item>
+    <title>Upper South Booftown</title>
+    <link>https://quartz.jzhao.xyz/Regions/Upper-South-Booftown</link>
+    <guid>https://quartz.jzhao.xyz/Regions/Upper-South-Booftown</guid>
+    <description>The Ashtray Upper South Booftown, better known as “The Ashtray”, is where the streets are rough, the air is thick with soot, and the law only exists if you can enforce it yourself ...</description>
+    <pubDate>Sat, 08 Feb 2025 20:17:06 GMT</pubDate>
+  </item><item>
+    <title>Zooka Mire</title>
+    <link>https://quartz.jzhao.xyz/Regions/Zooka-Mire</link>
+    <guid>https://quartz.jzhao.xyz/Regions/Zooka-Mire</guid>
+    <description>Zooka Mire is a swampy region of The Outback just outside city limits where a small sect of the Golgari Swarm called the Zooka Mire Collective have been operating. ...</description>
+    <pubDate>Sat, 08 Feb 2025 20:17:06 GMT</pubDate>
+  </item><item>
+    <title>The Outback</title>
+    <link>https://quartz.jzhao.xyz/Regions/The-Outback</link>
+    <guid>https://quartz.jzhao.xyz/Regions/The-Outback</guid>
+    <description>Beyond the sprawling cityscape of Stickyickistan lies The Outback, a vast and untamed wilderness where civilization fades and nature takes hold. A dense, tangled expanse of towering Arcanite-infused trees, hidden rivers, and ancient ruins, it is a land of hermits, cults, and creatures that have never seen the light of day.</description>
+    <pubDate>Sat, 08 Feb 2025 20:17:06 GMT</pubDate>
   </item>
     </channel>
   </rss>
