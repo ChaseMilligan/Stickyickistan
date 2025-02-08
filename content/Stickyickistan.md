@@ -1,3 +1,7 @@
+---
+title: History of Stickyickistan
+---
+
 # Modern Stickyickistan
 Welcome to the enchanting realm of Stickyickistan, a captivating City State nestled on an island off the Sword Coast, where an active volcano stands proudly at its core. This bustling metropolis, inhabited by approximately 27 million denizens, thrives as a tightly woven tapestry of terraced dwellings. At the heart of it all lies the Capitol building, perched upon [[Nevercough Island]], an idyllic smaller landmass embraced by an inlet on the main island.
 

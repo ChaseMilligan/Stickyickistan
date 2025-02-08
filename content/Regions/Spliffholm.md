@@ -1,3 +1,4 @@
+#Historical
 ### **The [[Elemental Trees]] of Stickyickistan and the Fall of Spliffholm**
 
 #### The Creation of Elemental Trees
