@@ -8,6 +8,6 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-public/Adventures/*
-public/Encounters/*
-public/Player-Characters/*
+public/Adventures
+public/Encounters
+public/Player-Characters
