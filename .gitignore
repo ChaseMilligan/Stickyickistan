@@ -7,7 +7,4 @@ tsconfig.tsbuildinfo
 .quartz-cache
 private/
 .replit
-replit.nix
-public/Adventures/
-public/Encounters/
-public/Player-Characters/
+replit.nixers/

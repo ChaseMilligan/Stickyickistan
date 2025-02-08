@@ -1,0 +1,1 @@
+Native [[Halflings]] that worship [[Shadash]], and possess negative energy that power their arcane abilities.

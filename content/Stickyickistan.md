@@ -14,22 +14,44 @@ To the east of the volcano lies Bobo Bush Estates, a realm where opulent mansion
 Beyond the confines of the city lies what the residents of Stickyickistan call [[The Outback]], a colossal expanse of arcane forests, swamps, bogs, mountain ranges, jungle, rainforest, beaches, and a small area of badlands and desert at the southern end. The Outback is inhabited by creatures from all over the material plane and beyond. Due to the naturally high levels of pure magic spewed from Mount Zooka, the island has been a hotspot in the multiverse.
 # Past Stickyickistan
 
+## Invasion
+
 In the annals of the multiverse, nestled amidst the turbulent seas, there exists an island now known as Stickyickistan. This extraordinary place, with its vibrant tapestry of cultures and bountiful resources, has a captivating history that intertwines the rise of its economy with the clash of two diverse civilizations.
 
 Long ago, the few, and only humanoid creatures on the island were a tranquil and harmonious community of halflings. They had a polytheistic faith in [[The Three Sisters]], lived in harmony with the land, and all the other creatures in it, cherishing the bountiful gifts bestowed upon them by the arcane nature of the island. The island flourished, its soil fertile and its forests teeming with life. But fate had other plans in store.
 
-In a wave of [[Human Colonialism]], ambitious settlers arrived upon the shores of Stickyickistan. Eager to claim the island's vast wealth for their own, they viewed the halflings as obstacles to their ambitions. Driven by greed and a desire to control the land's resources, the humans launched a forceful invasion, shattering the serenity that once enveloped the island.
+In a wave of [[Human Colonialism]], ambitious settlers arrived upon the shores of Stickyickistan. Eager to claim the island's vast wealth for their own, they viewed the halflings as obstacles to their ambitions. Driven by greed and a desire to control the land's resources, the humans launched a forceful invasion, shattering the serenity that once enveloped the island. Forming the nation of Stickyickistan, and [[Nevercough City]] on what they now call [[Nevercough Island]]
 
-Amidst the chaos and conflict, the halflings valiantly resisted. Yet, outnumbered and outmatched, their hopes for victory dwindled. Recognizing the desperate situation, their wise leaders made a fateful decision—a negotiation for survival. A pact was struck, granting the halflings a protected enclave within the city-state and acknowledging their rights to partake in the newfound prosperity.
+Amidst the chaos and conflict, the halflings valiantly resisted. Yet, outnumbered and outmatched, their hopes for victory dwindled. Recognizing the desperate situation, their wise leaders made a fateful decision—a negotiation for survival. A pact was struck, granting the halflings a protected enclave within the new nation now known as [[Upper South Booftown]], and acknowledging their rights to partake in the newfound prosperity.
 
 As the human settlers sought to establish dominion over the land, they discovered a remarkable resource—an extraordinary plant they called Arcannabis. Its magical properties became the foundation of Stickyickistan's economy, revolutionizing trade and transforming the island into a hub of prosperity. The potent properties of Arcannabis, when harnessed, granted individuals heightened senses, expanded magical abilities, and even visions into realms unseen.
 
-[[Arcannabis Cultivation]] quickly became a specialized art, passed down from generation to generation. Vast fields of the magical marijuana stretched across the landscape, tended to by expert cultivators who nurtured the plants with care and reverence. The city-state's wealth soared as merchants flocked from distant lands to partake in the arcane wonders Stickyickistan had to offer.
+[[Arcannabis Cultivation]] quickly became a specialized art, passed down from generation to generation. Vast fields of the magical marijuana stretched across the landscape, tended to by expert cultivators who nurtured the plants with care and reverence. The nation's wealth soared as merchants flocked from distant lands to partake in the arcane wonders Stickyickistan had to offer.
 
-Underneath the bustling trade and enchanting haze, however, lay the remnants of a fractured society. The divide between the human settlers and the halfling community remained palpable, their coexistence marred by lingering distrust and cultural clashes. Nevertheless, as the economy thrived, the city-state's leaders endeavored to bridge the gaps and foster unity among its diverse inhabitants.
+Underneath the bustling trade and enchanting haze, however, lay the remnants of a fractured society. The divide between the human settlers and the halfling community remained palpable, their coexistence marred by lingering distrust and cultural clashes. Nevertheless, as the economy thrived, the nation's leaders endeavored to bridge the gaps and foster unity among its diverse inhabitants.
 
 Over time, a unique blend of cultures emerged in Stickyickistan. The fusion of halfling traditions and human innovations birthed a captivating tapestry of art, music, and cuisine. Festivals celebrating both the halflings' reverence for nature and the humans' entrepreneurial spirit became the heartbeat of the city-state, uniting the population under a shared sense of identity. This is not to say that all racial tensions have gone away.
 
 Stickyickistan, with its majestic architecture, aromatic markets, and vibrant streets, stands today as a testament to the resilience and adaptability of its people. The island's history, forever marked by the invasion and subsequent coexistence, serves as a reminder of the complexities of cultural exchange and the potential for harmony amidst disparate communities.
 
 As the waves lap against the shores of Stickyickistan, the echoes of its past reverberate through the bustling city streets. The legacy of the halflings' ancestral connection to the land and the humans' quest for prosperity interweave to form the fabric of this remarkable island city-state, forever entwined with the enigmatic allure of Arcanite.
+
+## The Making of a City State
+
+Stickyickistan wasn't always a city state. it was once a nation with multiple population centers. The main [[Human]] settlement on [[Nevercough Island]] was named [[Nevercough City]] after their patriarchal noble family. A [[Dwarf]] settlement was excavated into the base of [[Mount Zooka]] across the [[Percolat Inlet]] from [[Nevercough City]] which they named [[Bongstad]]. Then there was the native [[Halflings]] reserved land which was not given an official name, but it was positioned right between a giant lava river, and the slopes of [[Mount Zooka]] making it barely habitable.
+
+Those settlements were all more or less on the coast of the nation, but there was one more settlement being setup much further inland. This city settlement was started by a legendary [[Dwarf]] artificer named [[Draza Zharrah]] after her discovery of [[Elemental Trees]] in [[The Outback]]. Thus [[Spliffholm]] was born.
+
+At its height, [[Spliffholm]] rivaled [[Nevercough City]] itself, producing magically enhanced warships, towering arcane ballistae, and golem-infused war machines. Its ruling merchant houses grew arrogant and greedy, hoarding wealth and exploiting forced labor, particularly from native [[Halflings]] and minor elemental creatures.
+
+But magic, greed, and unchecked ambition are a volatile mix.
+#### The Arcane Civil War and the Cataclysm
+
+As power struggles erupted among mages, priests, and mercenary factions, the city fell into civil war. Industrial sabotage, magical duels, and full-scale battles tore the city apart, with factions summoning fiends, creating unstable war golems, and using necromantic plagues to gain the upper hand.
+
+At the peak of the conflict, the Necromancer [[Valmorra the Hollowed]] unleashed her ultimate weapon—the [[Emerald Blight]], a magical plague that turned the living into mindless, fungal-infested undead. While her intent was to control the fallen, the Blight quickly spiraled out of control, transforming Spliffholm into a nightmarish wasteland of rotting, deathless horrors.
+
+Realizing the catastrophe would consume all of Stickyickistan, an unlikely alliance of native Halfling druids, [[Ashenfey]], [[Verdanfey]], Elemental creatures, and arcanists from the other cities —some of whom had been enslaved in Spliffholm’s industrial mills—banded together to seal the undead within the ruins. They planted a barrier of Radiant Trees around the city, whose divine-infused wood burns away the Blight. To this day, the trees grow unchecked, keeping the cursed [[Ruins of Spliffholm]] locked away.
+#### Aftermath
+
+Reeling from the horrors they witnessed in Spliffholm, veterans of the [[Nevercough Tribunal]] military forces, and its allies vowed to make sure that they would not suffer the same fate as Spliffholm. They decided to unite all the settlements of the alliance, and form a city state named Stickyickistan. This decision was not unanimous, but was a democratic majority. There are still many that identify more with the region of the city state they are from than the city state itself. Mostly the dwarves of [[Bongstad]] since that area remains the most racially homogenous of them all.

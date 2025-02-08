@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "chasemilligan.github.io/Wikiyickistan/",
-    ignorePatterns: ["private", "templates", ".obsidian", "Adventures", "Encounters", "PCs"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Adventures", "Encounters", "PCs", "*/private"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {

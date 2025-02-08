@@ -1,0 +1,1 @@
+A charismatic [[Warforged]] revolutionary, leading a faction of constructs and magitech-enhanced beings in rebellion against organic oppression. They inhabit the industrial wastelands near Mount Zooka’s rim, seeking liberation through war.

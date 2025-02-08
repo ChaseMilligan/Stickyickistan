@@ -1,0 +1,1 @@
+The Molten Note is a popular tavern found downtown on [[Nevercough Island]]. A bustling, dimly lit gambling den and music hall, the atmosphere is a mix of smoke, neon glows, and the clinking of enchanted dice. The game of choice at this establishment is [[Fist]].

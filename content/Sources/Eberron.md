@@ -30,7 +30,7 @@ A secretive cult that worships the power of blood and life essence, seeking immo
 # The King’s Dark Lanterns → The [[Tribunal Highblade Coalition]] - [[Highblades Guild]]
 # The Daughters of Sora Kell → The Coven of the Arcanite Cradle
 A trio of powerful witches who reside deep within the Outback, manipulating the flow of Arcanite and influencing factions in the city. Their cryptic motives and immense magical power make them a dangerous wildcard.
-# The Lord of Blades → The Iron Sovereign
+# The Lord of Blades → [[The Iron Sovereign]]
 A charismatic [[Warforged]] revolutionary, leading a faction of constructs and magitech-enhanced beings in rebellion against organic oppression. They inhabit the industrial wastelands near Mount Zooka’s rim, seeking liberation through war.
 
 # [[House Vadalis]] → [[The Norfies]]

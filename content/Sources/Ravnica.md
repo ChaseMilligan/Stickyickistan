@@ -3,7 +3,7 @@ Ravnican Factions Reimagined for Stickyickistan
 A bureaucratic, law-enforcing body centered in the Capitol building on Nevercough Island. Known for their rigid, arcane-driven justice system, they draft and enforce the city-state's laws with magitech constructs and enchanted documentation.
 # Boros Legion → The Ember Vanguard
 A militant order of zealots who believe in "righteous combat" to uphold peace and order. Operating from fortified outposts across the city, their glowing magitech weaponry makes them a beacon of hope—or fear.
-# Dimir House → Ashen Veil Syndicate
+# Dimir House → [[Ashen Shadow Society]] 
 A shadowy network of spies, informants, and assassins who trade in secrets. Their headquarters are rumored to be hidden deep in the industrial underbelly of Mount Zooka, cloaked in magic and subterfuge.
 # [[Golgari Swarm]] → [[Zooka Mire Collective]]
 A faction thriving in the toxic, nutrient-rich outflows of Mount Zooka. They specialize in recycling and repurposing, using arcane and biological magitech to cultivate powerful alchemical reagents.

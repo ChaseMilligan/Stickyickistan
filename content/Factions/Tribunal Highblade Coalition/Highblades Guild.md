@@ -1,1 +1,0 @@
-This is the guild of swords for hire belonging to the [[Tribunal Highblade Coalition]]. The bounty hunting squad [[Dusk Flame VII]] belongs to this guild.
