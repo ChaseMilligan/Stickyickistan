@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "chasemilligan.github.io/Stickyickistan/",
+    baseUrl: "chasemilligan.github.io/Wikiyickistan/",
     ignorePatterns: ["private", "templates", ".obsidian", "Adventures", "Encounters", "PCs"],
     defaultDateType: "created",
     generateSocialImages: false,
