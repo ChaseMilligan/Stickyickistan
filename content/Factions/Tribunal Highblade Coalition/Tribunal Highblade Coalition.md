@@ -1,0 +1,8 @@
+- Based on [[House Deneith]] from [[Eberron]]
+- Was once just a militant noble family in [[Stickyickistan]] around the beginning of [[Human Colonialism]] named the House of Highblade.
+- With the blessing of the [[Nevercough Tribunal]] empowering their military might, the coalition was formed, and a campaign of conquest throughout the regions of the city now known as [[Upper South Booftown]] and [[Lower South Booftown]].
+- At the time these places were sparsely inhabited, but fiercely defended by several different factions of native [[Halflings]]. Very few of these factions still exists, and if they do, they operate on the fringes of the city or the depths of [[The Outback]].
+- Despite having strong ties to the [[Nevercough Tribunal]], and the majority of its members being [[Human]], the coalition remains neutral in all foreign affairs.
+- The coalition earned its status as a private mercenary house during [[Human Colonialism]] by offering soldiers from its [[Highblades Guild]] to the cause.
+- The coalition is based out of [[Highblade Tower]] downtown on [[Nevercough Island]]
+- Since the end of [[Human Colonialism]], however, it has become confrontational with [[The Forgewright Guild]] and [[The Seekers of the Vein]]. The reason for this is simply business: THC see [[The Forgewright Guild]]'s [[Warforged]] and [[The Seekers of the Vein]]'s prospecting mercenaries, and the [[Ashen Shadow Society]]'s lawless bounty hunters as potential threats or competition to their soldiers-for-hire.

@@ -1,0 +1,1 @@
+Arcannabis is an enchanted cannabis plant from Stickyickistan. Arcannabis does naturally occur in the [[Arcanite]] rich soils of Stickyickistan's Outback, but it is uncommon. [[Arcannabis Cultivation]] however, is very common. Generally seeds are produced by trained alchemists, then sold to farmers and individuals.

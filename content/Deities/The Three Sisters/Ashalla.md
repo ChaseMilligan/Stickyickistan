@@ -1,0 +1,3 @@
+## The Green Goddess
+
+Ashalla represents bounty, family, and community, and she is the most widely worshiped among [[Halflings]] farmers and healers. Her followers tend to crops, animals, and kin, believing that nurturing and protection are the greatest virtues. Even among the urban halflings of [[Upper South Booftown]], small shrines to Ashalla can be found in homes, praying for safety and prosperity. However, not all of her followers are passive—some believe that nature’s bounty must be fiercely defended, and they will fight to protect their homes and kin against exploiters and invaders.

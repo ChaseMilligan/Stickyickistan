@@ -1,0 +1,5 @@
+Looming over [[Stickyickistan]], Mount Zooka is an active [[Arcanite]] Cone—a rare type of volcano that sits atop rich Arcanite deposits, constantly pulsing with magical energy. Its obsidian-black slopes, laced with glowing veins of molten rock, serve as both a natural wonder and a relentless hazard. While its slow-moving lava flows encircle the base, its violent eruptions hurl flaming debris, molten magma, and even raw chunks of Arcanite across the land.
+
+The mountain is a center of industry and danger, with miners, [[Magitech]] engineers, and reckless bounty hunters carving out makeshift tunnels and outposts along its rim, seeking precious minerals, arcane artifacts, and volatile magical energy. The [[Bongstad]] dwarves have built their fortified settlement into the base of the mountain, using its natural heat to power their forges. Meanwhile, the upper crater is home to industrial mining operations, dangerous alchemical experiments, and the ruins of those who dug too deep.
+
+Mount Zooka is the heart of Stickyickistan’s power and chaos—a force of creation and destruction, where great fortunes and terrible disasters are only ever one eruption away.

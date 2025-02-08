@@ -1,0 +1,7 @@
+Bongstad is a region within the city of [[Stickyickistan]] known for its concentrated [[Dwarf]] population, and some of the finest forges in the realm. Bongstad was originally a city of its own, separate from Stickyickistan. The dwarven settlers built their city into the base of [[Mount Zooka]], creating a labyrinthine stronghold of stone halls, forges, and smoke-choked drinking dens. What began as a modest mining colony has grown into a thriving hub of industry, stubborn dwarven tradition, and a surprising amount of [[Arcannabis]]-fueled innovation.
+
+The city is a maze of tunnels, bridges, and tiered terraces, with glowing magitech pipes weaving through the stonework, carrying molten slag and processed Arcanite to various refineries. The air is thick with the scent of burning coal, and enchanted metals.
+
+Bongstad is a place of extremes—half of its population consists of hard-nosed, soot-streaked miners and blacksmiths, while the other half is composed of free-spirited inventors, alchemists, and “experimental herbalists.” This divide has led to an unusual cultural blend: **some dwarves spend their lives hammering out enchanted battle-axes, while others are busy crafting new Arcannabis-infused concoctions in underground apothecaries**.
+
+Few outsiders venture into Bongstad without good reason, but those who do are advised to bring a strong constitution, a higher-than-average [[Zooka Malt]] tolerance, and absolutely no outstanding gambling debts. 

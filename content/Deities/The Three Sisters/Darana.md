@@ -1,0 +1,3 @@
+## The Blue Goddess
+
+Darana is the patron of those who embrace the impartiality of nature. [[Halflings]] druids, scouts, and alchemists who see balance as the ultimate law often follow her teachings. Water, a symbol of her neutrality, is particularly revered among halflings who navigate [[Stickyickistan]]’s jungle rivers and coastal trade routes. Many [[Arcannabis]] cultivators also honor Darana, believing that balance in nature leads to the most potent harvests.

@@ -1,0 +1,5 @@
+Perched on the eastern slopes of [[Mount Zooka]], Bobo Bush Estates is where [[Stickyickistan]]’s wealthiest and most influential reside in lavish, sprawling villas surrounded by enchanted gardens and high-security [[Magitech]] defenses. The estates overlook the city like gilded fortresses, offering a breathtaking view of the [[Ocean]]—and a safe distance from the chaos below.
+
+This district is home to merchant lords, arcane industrialists, high-ranking politicians, and retired crime bosses—people who own Stickyickistan rather than rule it. Deals worth more than a kingdom’s treasury are struck over fine [[Arcannabis]] and aged [[Zooka Malt]] in opulent private lounges, while behind the scenes, espionage, blackmail, and silent assassinations determine who truly holds power.
+
+Though the estates may seem idyllic and serene, the reality is a constant cold war between families vying for dominance. The wealthy here don’t fight with swords—they fight with influence, secrets, and gold. If someone disappears in Bobo Bush Estates, no one asks questions—because they’re already negotiating for the property.

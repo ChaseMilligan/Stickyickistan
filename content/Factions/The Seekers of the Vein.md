@@ -1,0 +1,1 @@
+A guild of prospectors and mercenaries specializing in uncovering hidden [[Arcanite]] deposits and magical relics. Their operations extend from [[Mount Zooka]]’s treacherous rim to the deepest jungle in [[The Outback]].

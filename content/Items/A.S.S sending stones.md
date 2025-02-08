@@ -1,0 +1,5 @@
+[DDB Item](https://www.dndbeyond.com/magic-items/9598449-a-s-s-sending-stone)
+
+At Bloodhound rank, you are given an Ashen Shadow Society Sending Stone, an uncommon magic item that resembles a gemstone in a bold setting. It functions like a normal [Sending Stones](https://www.dndbeyond.com/magic-items/5402-sending-stones) except that it has no matching stone and allows communication with an info tech at the Ashen Citadel. A DC 10 Intelligence ([Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check must be made to successfully make contact. Once you attempt to make contact, you can't make another attempt until you [short rest](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ShortRest). Once the stone is successfully used, it can’t be used again until the next dawn.
+
+Making contact with a squad member assumes that they are in possession of their own Ashen Shadow Society Sending Stone.

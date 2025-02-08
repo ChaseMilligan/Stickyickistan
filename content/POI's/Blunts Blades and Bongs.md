@@ -1,0 +1,1 @@
+Blunts Blades and Bongs is an armory owned and operated by a [[Dwarf]] named [[Magnus Emberforge]]. The shop is located in the [[Bongstad]] region of the city, and gets its inventory from only the finest forges in the city which Magnus and most other dwarves believe to be in Bongstad.

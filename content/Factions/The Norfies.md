@@ -1,0 +1,15 @@
+- Loosely based on [[House Vadalis]] from [[Eberron]]
+- Owners of the [[The North Booftown Downs]]
+- On the surface it would seem the most significant trade for The Norfies is in the breeding and training of animals. Mainly horses, but they dabble in many things.
+- They also run the [[Handler's Guild]]
+- They are based out of [[North Booftown]] in a large plantation style home with large pastures of livestock, and stables.
+- Norfies members that are also part of the Handler's Guild possess magical abilities related to calming and controlling animals, allowing them to domesticate even the most exotic and difficult beasts.
+- The Norfies have turned this gift into a booming business in [magebred animals](https://eberron.fandom.com/wiki/Magebred_animal "Magebred animal") and become industry leaders in livestock breeding and animal training.
+- The Handlers Guild is treated as a separate organization to the house.
+- Above all else, The Norfies are a family and the family comes above all.
+- To become a member of The Norfies, one must be human and either be born into it or else marry into it. 
+- Although heirs may marry for love, all such marriages must be thoroughly examined with regard to the bloodlines of both participants, just as they do with their beasts, before being approved by a council of family elders, and they accept such new members infrequently.
+- They do, however, "hire" "employees" because animal handling isn't the only business they deal in.
+- The Norfies are mostly known by the public for their horses, and race track, but behind closed doors they operate the largest illicit [[Alcohol]] distribution ring in [[Stickyickistan]] among their other nefarious dealings.
+- They will often "hire" people from outside the family to work for them, and create plausible deniability for themselves. This often means they are trying to find brewer's, and alchemists to help make the product, and mercenaries to move it.
+- They are also involved in some hush-hush high stakes gambling, and race fixing at the downs

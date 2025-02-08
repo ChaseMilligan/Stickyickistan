@@ -1,0 +1,1 @@
+Zooka Malt is a beverage similar to ale that is made from a special variety of [[Arcannabis]] called [[Fizzlebud]]. The effects of Zooka Malt are the same as what you would experience if you drank a beer and smoked a joint.

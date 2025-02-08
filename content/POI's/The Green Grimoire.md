@@ -1,0 +1,1 @@
+Owned by a gnome named [[Gideon Cloudwalker]], and tucked away in the heart of [[Nevercough Island]]’s bustling [[Shopping District]], The Green Grimoire is a herbalist’s haven. This shop is a go-to destination for mages, alchemists, and wealthy thrill-seekers looking for potent [[Arcannabis]].

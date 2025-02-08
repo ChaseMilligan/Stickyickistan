@@ -1,0 +1,3 @@
+## The White Goddess
+
+Shadash is the darker aspect of nature—pestilence, destruction, and decay—and is feared as much as she is revered. Among the [[Halflings]] poison-makers, assassins, and outcasts, Shadash’s name is whispered in respect. They see her as a force of necessary destruction, removing the weak so the strong may thrive. Some extreme followers even experiment with toxic alchemy and curses, believing that spreading death is part of maintaining balance.

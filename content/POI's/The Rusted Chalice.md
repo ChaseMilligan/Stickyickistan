@@ -1,0 +1,1 @@
+The rusted chalice is a tavern inside the [[Ashen Citadel]] for guild members only. Here bounty hunters of the [[Ashen Shadow Society]] gamble, smoke, drink, and occasionally take part in cage matches. The bartender of The Rusted Chalice is a [[Warforged]] named [[C0B4LT]] that was created by a member of the guilds Enigmatic Quartet.
