@@ -6,6 +6,8 @@ This world draws inspiration from multiple established settings, including the F
 
 At the heart of the setting lies the sprawling metropolis of Stickyickistan, a city teeming with adventure, mystery, and danger. Whether navigating the city's labyrinthine alleyways, dealing with powerful guilds and shadowy organizations, or uncovering lost relics of forgotten civilizations, adventurers will find no shortage of opportunities. Beyond the city stretches The Outback, a wild and unpredictable frontier filled with untamed magic, forgotten ruins, and lawless territories waiting to be explored.
 
+<hr/>
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
