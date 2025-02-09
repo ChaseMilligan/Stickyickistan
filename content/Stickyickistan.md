@@ -18,7 +18,7 @@ To the east of the volcano lies Bobo Bush Estates, a realm where opulent mansion
 Beyond the confines of the city lies what the residents of Stickyickistan call [[The Outback]], a colossal expanse of arcane forests, swamps, bogs, mountain ranges, jungle, rainforest, beaches, and a small area of badlands and desert at the southern end. The Outback is inhabited by creatures from all over the material plane and beyond. Due to the naturally high levels of pure magic spewed from Mount Zooka, the island has been a hotspot in the multiverse.
 # Past Stickyickistan
 
-## Invasion
+## [[Human Colonialism]]
 
 In the annals of the multiverse, nestled amidst the turbulent seas, there exists an island now known as Stickyickistan. This extraordinary place, with its vibrant tapestry of cultures and bountiful resources, has a captivating history that intertwines the rise of its economy with the clash of two diverse civilizations.
 
