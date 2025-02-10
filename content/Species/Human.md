@@ -1,0 +1,1 @@
+Humans are the majority species living in the city of [[Stickyickistan]]. They came to this land long ago during a time known as [[Human Colonialism]] where humans from across the multiverse, but mainly from the Sword Coast, carried out a brutal, near genocidal conquest of the native [[Halflings]].
