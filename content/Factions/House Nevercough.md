@@ -1,0 +1,1 @@
+This is the name of the noble house of the Nevercough family. House Nevercough is the first noble house that formed after [[Human Colonialism]]. Eventually this house became the [[Nevercough Tribunal]]. They hold the most amount of power of any member in the Nevercough Tribunal.

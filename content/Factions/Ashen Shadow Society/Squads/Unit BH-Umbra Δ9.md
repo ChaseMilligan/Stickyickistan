@@ -26,7 +26,7 @@ They were taken back to the Ashen Citadel where they received their reward for c
 - [[Indicus Sativalin]]
 - [[Weknas Grasscheeks]]
 - [[Zara Blackthorn]]
-- [[The Norfies]]
+- [[House Northbourne]]
 
 ## Enemies
 

@@ -1,1 +1,5 @@
-A guild of prospectors and mercenaries specializing in uncovering hidden [[Arcanite]] deposits and magical relics. Their operations extend from [[Mount Zooka]]’s treacherous rim to the deepest jungle in [[The Outback]].
+Formed by [[House Stonemug]], The Seekers of the Vein is more than just a Mining & Jeweler’s Guild—it is an economic empire, fueling [[Stickyickistan]]’s [[Magitech]] advancements, luxury markets, and global trade. Every [[Arcanite]] shard, adamantine ingot, and rare gemstone that flows through [[Bongstad]] passes through their hands first, giving them immense control over both supply and pricing.
+
+Beyond mining, the Seekers have built a reputation for craftsmanship and shrewd business tactics. Their jewelers craft the finest enchanted accessories, their metalworkers supply the greatest artificers, and their dealmakers can manipulate the markets to play buyers against each other for the highest price.
+
+They have a strong partnership with [[The Forgewright Guild]], ensuring that Stickyickistan’s [[Magitech]] industry always runs on raw materials sourced from Stonemug-controlled mines. But they are not just merchants—they are explorers, entrepreneurs, and tacticians, constantly prospecting new veins, striking high-risk deals, and hiring mercenaries to protect their investments.

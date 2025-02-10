@@ -1,7 +1,7 @@
 Ravnican Factions Reimagined for Stickyickistan
 # Azorius Senate → [[Nevercough Tribunal]]
 A bureaucratic, law-enforcing body centered in the Capitol building on Nevercough Island. Known for their rigid, arcane-driven justice system, they draft and enforce the city-state's laws with magitech constructs and enchanted documentation.
-# Boros Legion → The Ember Vanguard
+# Boros Legion → [[Tribunal Highblade Coalition]]
 A militant order of zealots who believe in "righteous combat" to uphold peace and order. Operating from fortified outposts across the city, their glowing magitech weaponry makes them a beacon of hope—or fear.
 # Dimir House → [[Ashen Shadow Society]] 
 A shadowy network of spies, informants, and assassins who trade in secrets. Their headquarters are rumored to be hidden deep in the industrial underbelly of Mount Zooka, cloaked in magic and subterfuge.
