@@ -1,0 +1,1 @@
+This is a fungal horror sub-species of [[Warforged]] with several variants that was created by [[Sibrek Hollowspore]] of the [[Zooka Mire Collective]].
