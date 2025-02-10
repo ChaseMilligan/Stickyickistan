@@ -1,0 +1,7 @@
+### **Where Luxury Dining Meets Bloodsport**
+
+Owned by [[House Northbourne]], Belly of the Beast is one of [[Stickyickistan]]’s premier high-end dining establishment, a lavish tribute to the city’s greatest monster hunters, beast slayers, and thrill-seekers. The restaurant’s ornate interior is decorated with taxidermy of rare [[Magebred Animals]], enchanted murals of legendary hunts, and opulent tapestries depicting epic battles against monstrous foes. Here, the city’s elite indulge in exotic meats and rare delicacies, basking in an atmosphere of luxury, and status.
+
+However, behind the restaurant’s refined veneer lies a far darker secret. The grand dining hall conceals an underground fighting pit, where monstrous beasts, captured warriors, and desperate gladiators are thrown into battle for the amusement of House Northbourne’s most exclusive guests. These blood-soaked spectacles are strictly invitation-only, drawing in high-stakes gamblers, crime lords, and power brokers looking to wager fortunes—or lives—on the outcomes.
+
+At Belly of the Beast, the line between sophistication and brutality is razor-thin. To the outside world, it is a place of fine dining and prestige, but for those who know the truth, it is a theater of carnage where the rich dine above and revel in slaughter below.

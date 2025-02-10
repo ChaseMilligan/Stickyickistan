@@ -14,3 +14,5 @@ An advanced [[Warforged]] creation of The Ashen Shadow Society, Wraith was desig
 - Has a distrust/fear of other constructs, bad at reading them
 
 # Goals
+- **Short-Term**: Wraith remains loyal to orders and focused on accumulating wealth, using his skills to climb the ranks and establish his influence.
+- **Long-Term**: Once he gains enough power and status, Wraith will seek retribution against those who once treated him as expendable, ensuring they pay for using him as bait.
