@@ -1,0 +1,5 @@
+- Is not literally a road the name is a metaphor for the trail of illicit trade from [[Stickyickistan]] to the [[Underdark]] below.
+- The name comes from the fact that most of the wealth made on the market comes from mining. [[Arcanite]] in particular, but other things as well.
+- Sometimes, unlicensed individuals, and small mining outfits will enter the licensed jurisdiction of larger mining companies like [[The Seekers of the Vein]], and other subsidiaries of [[House Stonemug]], to steal what they can find of value, and re-sell on the Silt Road.
+- Of course gems, and precious metals aren't the only illicit product you can find on this infamous trade route
+- [[Alcohol]] being the most popular of any illegal substance in the realm can of course be found up and down the Silt Road. From the smallest trade outpost to [[Molten Maw]], they all wish for a taste of the forbidden barley juice.

@@ -11,9 +11,9 @@ While House Northbourne and the Handler’s Guild are officially separate entiti
 But while the Handler’s Guild is respected, House Northbourne is feared. They apply the same ruthless efficiency to controlling their criminal empire as they do to breeding their prized stock.
 #### **The Norfies’ Criminal Empire**
 
-Despite their public standing, House Northbourne’s true wealth comes from the shadows. Their control of The North Booftown Downs allows them to fix races, manipulate odds, and control gambling syndicates, ensuring that every major bet benefits them in the end.
+Despite their public standing, House Northbourne’s true wealth comes from the shadows. Their control of [[The North Booftown Downs]] allows them to fix races, manipulate odds, and control gambling syndicates, ensuring that every major bet benefits them in the end.
 
-Beyond that, they are the largest illicit alcohol distributors in Stickyickistan, running a sophisticated network of secret breweries and smuggling routes. Through layers of obfuscation, and plausible deniability, they employ brewers, alchemists, and mercenaries to produce and transport their contraband, ensuring that Stickyickistan’s thirst for forbidden spirits is always quenched—for a price.
+Beyond that, they are the largest illicit [[Alcohol]] distributors in Stickyickistan, running a sophisticated network of secret breweries and smuggling routes. Through layers of obfuscation, and plausible deniability, they employ brewers, alchemists, and mercenaries to produce and transport their contraband, ensuring that Stickyickistan’s thirst for forbidden spirits is always quenched—for a price.
 
 When necessary, they hire outsiders for the dirty work, ensuring that if things go wrong, the blame falls on expendable hands, not Northbourne blood.
 #### **The Estate & Their Unshakable Rule**
