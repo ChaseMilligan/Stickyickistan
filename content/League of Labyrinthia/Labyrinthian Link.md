@@ -1,0 +1,1 @@
+This is a portal paying spectators can use to travel to [[Zahur al-Nasira]]'s domain of wild magic to watch the [[League of Labyrinthia]] live.
