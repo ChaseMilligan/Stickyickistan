@@ -10,7 +10,6 @@
 - Within a few days, the lab tech’s are able to decipher the ancient allegory about the Gilded Nug, and they discover that the gilded nug can be broken down using a magical grinder, and rolled in magical gilded hemp leaf to make 3 [[Gilded Blunt]]s. These 3 blunts hold immense magical power, and allow anyone that smokes them to use the Wish spell before it turns to ash
 - These blunts will be given to the party when it is deemed necessary
 - When they return to their quarters, it looks mostly the same, and still smells like unfettered butt musk, but it feels a bit larger. A few mushrooms are propped against the wall in a dim corner, and some new machines have been placed along the wall next to an upgraded alchemy table. They have also added some decor around the room. Mostly utility things like a large chest for storage and some shelving units.
-
 # Ideas:
 
 - Make a scenario where they go to the shopping district to use their new money, and while they are there, they get attacked by a squad of rival bounty hunters from THC that are trying to kill them for the money that Hazeus Tokenheim put on their heads.
