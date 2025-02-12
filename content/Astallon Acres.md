@@ -1,0 +1,1 @@
+This slightly marshy farmland in [[North Booftown]] borders the [[Zooka Mire]]. Lorded over by an obscenely wealthy man named [[Ezra Astallon]], it's commoners are treated fairly, and paid handsomely for their work. Any problem that arises here is quickly solved by throwing money at it.

@@ -1,0 +1,1 @@
+A family of lower nobility with a vast shipping empire, House Varkos is known for its wealth, military prowess, and brutal retaliation against those who cross them. Their emblem is a black wyvern devouring a silver ship, symbolizing their control over the seas.

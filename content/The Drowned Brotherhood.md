@@ -1,0 +1,1 @@
+A clan of [[Human]]s exiled from their homelands. They have taken to piracy on the [[Ocean]] to keep the clan warm and fed. Led by a ruthless man named [[Svarog 'Blacktide' Valesk]] they base their operations out of [[Blacktide's Fort]].
