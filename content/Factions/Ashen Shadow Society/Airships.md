@@ -1,0 +1,1 @@
+An [[Ashen Shadow Society]] squad can pay 25gp for an airship ride from or to the [[Ashen Citadel]]. An airship can only be ordered from the field if a successful connection is made using an [[A.S.S sending stones]].

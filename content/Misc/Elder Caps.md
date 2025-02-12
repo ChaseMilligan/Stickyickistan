@@ -1,0 +1,1 @@
+https://www.dndspeak.com/2019/03/26/100-fantasy-drugs-and-their-effects/
