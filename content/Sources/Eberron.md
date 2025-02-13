@@ -7,10 +7,10 @@ The premier magitech crafters and inventors of Stickyickistan, headquartered nea
 A mercenary and protection guild that dominates the private security industry in Stickyickistan. Their disciplined forces are often hired by nobles, and guilds to enforce order or suppress rebellion.
 # House Jorasco → The Verdant Lifebinders
 A powerful group of healers and alchemists operating lush clinics and sanctuaries scattered across Stickyickistan. They utilize a mix of natural remedies and Arcanite-infused magitech to heal—but always for a steep price.
-# House Kundarak → The Vaultkeepers Syndicate
+# House Kundarak → [[House Stonemug]]
 A highly organized group of wardens and bankers, managing both physical and magical vaults. Their fortresses, scattered across the city, are impenetrable, offering secure storage for everything from gold to priceless magical artifacts.
-# House Lyrandar → The Stormspire Consortium
-Master pilots and engineers of airships and weather-control magitech, the Stormspire Consortium oversees trade and transport across the skies of Stickyickistan. Their mastery of arcane weather manipulation makes them a force to be reckoned with.
+# House Lyrandar → [[House Varkos]]
+Master pilots and engineers of airships, boats and weather-control magitech, they oversee trade and transport across all of Stickyickistan. Their mastery of arcane weather manipulation makes them a force to be reckoned with.
 # House Medani → The Veilwardens
 Specialists in espionage and magical detection, the Veilwardens offer their services to uncover magical threats and assassins. Based in Nevercough Island, they are trusted for their ability to root out hidden dangers.
 # House Orien → The Glittertrack Guild
@@ -19,7 +19,7 @@ Masters of teleportation and transportation, they maintain the city's teleportat
 A troupe of entertainers and spies, blending artistry and deception. Their members perform in the grand theaters of Stickyickistan while gathering intelligence or influencing political rivals through subtle manipulation.
 # House Sivis → The Runecall Collective
 Experts in arcane communication, they run the city’s magical messaging systems and enchantment services. Their glyph-etched scrolls and sigils keep Stickyickistan connected across its bustling districts.
-# House Tharashk → [[House Stonemug]]
+# House Tharashk → [[House Stonemug]] - [[The Seekers of the Vein]]
 A guild of prospectors and bounty hunters specializing in uncovering hidden Arcanite deposits and magical relics. Their operations extend from Mount Zooka’s treacherous rim to the deepest jungle Outback.
 # House Thuranni → The [[Ashen Shadow Society]]
 An elite cabal of assassins and infiltrators, offering their services to Stickyickistan’s wealthiest patrons. Their deadly precision and discretion make them a dangerous force in the city’s underworld.
