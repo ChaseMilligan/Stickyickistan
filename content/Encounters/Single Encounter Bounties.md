@@ -14,13 +14,13 @@ The assassination of [[Lord Taron Varkos]]—who was slain aboard his personal g
 ### Hostiles
 
 - [**Captain Svarog "Black-Tide" Valesk**](https://www.dndbeyond.com/monsters/4904838-pirate-captain) – The brutal and cunning leader of [[The Drowned Brotherhood]]. He was exiled from his homeland after leading a mutiny against his former lord. His blackened, sea-ravaged armor and the shark-tooth medallion around his neck make him an imposing figure.
-- **Blacktide's Bride Helka Drann** (Sahuagin Priestess)
+- **Blacktide's Bride Zyssara Bloodtide** (Sahuagin Priestess)
 - 2 x [Pirates](https://www.dndbeyond.com/monsters/4904830-pirate), Red and Marko
 - 12 x [Commoners](https://www.dndbeyond.com/monsters/5194951-commoner)
 
 ### Loot
 
-Many fine wares from [[The Drowned Brotherhood]]'s recent raid of [[House Varkos]]' ship the Golden Wake can be found throughout the fort. Some things like dinnerware, and bedding have clearly been replaced by items of a much higher quality, and the 250 stolen gp can be found on the desk in the captain's quarters.
+Many fine wares from [[The Drowned Brotherhood]]'s recent raid of [[House Varkos]]' ship the Golden Wake can be found throughout the fort. Some things like dinnerware, and bedding have clearly been replaced by items of a much higher quality, and the stolen 250gp can be found on the desk in the captain's quarters.
 
 Investigation or Perception DC 10 in any of the buildings and the squad finds a burlap sack containing a quarter pound of [[Fizzlebud]]. This is enough to kill a [[Halflings]] commoner, and make 96 joints (uses) , or one standard size barrel of [[Zooka Malt]].
 
@@ -80,7 +80,7 @@ If the party investigates the Captain's quarters of the fort, with a DC 15 inves
 They will be greeted out front of the manor of [[House Varkos]] by [[Sir Davrik Varkos]] who has their reward.
 #### Dead Captain
 
-If the squad kills the captain they must bring something valuable of his back to [[House Varkos]] to prove he is in fact dead. This could be literally his head, the head of his sahuagin wife Helka, the captain's necklace, or his sword. If they come up with something more creative go with that.
+If the squad kills the captain they must bring something valuable of his back to [[House Varkos]] to prove he is in fact dead. This could be literally his head, the head of his sahuagin wife Zyssara Bloodtide, the captain's necklace, or his sword. If they come up with something more creative go with that.
 #### Alive Captain
 
 If the squad somehow manages to capture the captain alive, and return him to [[House Varkos]], some noble guards will take him away, and [[Sir Davrik Varkos]] will hand them 500gp, and ask them for a moment to fetch the rest since they brought him in alive.
