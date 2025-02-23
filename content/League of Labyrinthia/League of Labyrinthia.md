@@ -1,6 +1,6 @@
 "Welcome, mortals and immortals alike, to the greatest spectacle across space, time, and dimensions!"
 
-A master entertainer and a sadistic showman, [[Zahur al-Nasira]] invites contestants from across the planes to compete in a high-stakes challenge unlike any other. Participants—ranging from bumbling fools to hardened adventurers—are thrown into his Labyrinth of Chaos, an evolving dungeon constructed entirely within Zahur’s personal domain. Wild magic pulses through every corridor, creating unpredictable obstacles, bewildering transformations, and a constant sense of danger.
+A master entertainer and a sadistic showman, [[Zahur al-Nasira]] invites (by force) contestants from across the planes to compete in a high-stakes challenge unlike any other. Participants—ranging from bumbling fools to hardened adventurers—are thrown into his Labyrinth of Chaos, an evolving dungeon constructed entirely within Zahur’s personal domain. Wild magic pulses through every corridor, creating unpredictable obstacles, bewildering transformations, and a constant sense of danger.
 
 The rules are simple: survive, overcome, and profit—or perish in spectacular fashion. Each room in the labyrinth holds the promise of gold and glory or an untimely, hilarious demise. The harder the dungeon, the greater the payout—and the higher the ratings. Zahur ensures that every show is filled with unexpected twists, sending waves of chaotic magic to spice up the competition and keep the audience on the edge of their seats.
 
